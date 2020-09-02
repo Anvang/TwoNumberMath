@@ -14,6 +14,7 @@ int main()
   cin>>firstNumber;
   cout<<Please enter another: << secondNumber;
 
+  //do some math and display the results...
   results = firstNumber + secondNumber;
   cout<<firstNumber " plus " secondNumber " is " results <<endl;
   return 0;
